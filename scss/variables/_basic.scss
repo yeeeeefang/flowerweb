@@ -1,0 +1,35 @@
+//間距
+$interval-s: 10px;
+$interval-m: 16px;
+$interval-l: 24px;
+$interval-x-s: 0 10px;
+$interval-x-m: 0px 15px;
+$interval-y-m:  10px 0;
+$interval-label: 24px 0 8px;
+$interval-xy-l: 20px 50px;
+$interval-s-xy-l: 8px 0 5px;
+$interval-x-center: 20px auto;
+
+
+//速率
+$speed-fast: .4s;
+
+//樣式特效
+$text-shadow: 0 0 2px rgba(255, 255, 255, 0.3);
+
+
+
+//圓角
+$border-r-s: 8px;
+$border-r-m: 16px;
+$border-r-l: 24px;
+
+//z-index
+$z-index-l:999;//(階層)數字越大越前面 這樣就不會被遮到了
+$z-index-m:888;
+
+//RWD斷點
+$mediaSm:'max-width:640px';
+$mediaSmUp:'min-width:641px';//手機以上
+$mediaMd:'max-width:1023px';
+$mediaLg:'min-width:1024px';
